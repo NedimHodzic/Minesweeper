@@ -1,0 +1,6 @@
+This is my assignment 2. For this I decided to make a minesweeper game after Schaeffer gave me the ok. It plays like
+normal minesweeper and the controls are given when you run the program. To run just type make and then ./main.
+
+Note: I know in normal minesweeper when you click it will fill up the board for rather than having
+you fill it one at a time. I could not find a way to implement this unfortunately so the user has to
+do it manually. Squares that end up being blank are "0" squares where there are no bombs around it.
